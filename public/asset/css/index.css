@@ -1,0 +1,54 @@
+.navbar{
+
+	height: 7vh;
+	}
+body{
+	background-color: #eee;
+}
+.Container-one{
+	width: 1100px;
+		height:500px ;
+	padding: 40px;
+	border-radius: 10px;
+	background-color: white;
+	margin: auto;
+	margin-top: 50px;
+}
+.Container-two{
+
+			height: 88%;
+			align-items: center;
+}
+.Container-one div .Container-tiga{
+	padding: 8px;
+	border-radius: 20px;
+	list-style-type: none;
+	text-decoration: none;
+	
+}
+.Container-one .Container-lima .Container-enam{
+	border: 1px solid white;
+	width: 400px;
+	padding: 0px;
+	box-shadow: 2px 2px 2px black;
+	border-radius: 10px;
+}
+.Container-one .Container-lima .Container-enam .Container-tujuh{
+	width: 400px;
+}
+
+.Myproject-card{
+	
+	
+	border:1px solid white;
+
+	margin-top: 90px;
+	border-radius: 10px;
+}
+.Myproject-card button{
+	width: 49% !important;
+}
+.Myproject-card h5{
+	margin-top: 20px !important;
+	margin-bottom: 15px !important;
+}

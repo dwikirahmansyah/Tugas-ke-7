@@ -1,0 +1,21 @@
+
+.Container-Heads img{
+	width: 700px !important;
+	border-radius: 10px !important;
+}
+.Container-Heads{
+	margin-left: 50px !important;
+}
+.Container-Judul{
+	margin-top: 30px !important;
+}
+.Container-Judul h1{
+	margin-bottom: 20px !important;
+}
+body{
+	background-color: #eee!important
+}
+.navbar{
+
+	height: 7vh;
+	}
